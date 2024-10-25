@@ -1,4 +1,4 @@
-import: build
+import: build ca test
 	./poems -dir ../chinese-poetry/宋词
 	./poems -dir ../chinese-poetry/五代诗词
 	./poems -dir ../chinese-poetry/全唐诗
